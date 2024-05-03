@@ -64,7 +64,7 @@
 
 
 \begin{declaration}
-	viết lời cam đoan
+	...
 \end{declaration}
 
 \begin{acknowledgments}
@@ -78,11 +78,11 @@
 \end{acknowledgments}
 	
 \begin{abstract}
-	Nội dung chính của luận văn nhằm tìm hiểu, nghiên cứu xây dựng hệ thống sử dụng machine learning và computer vision vào theo dõi quá trình nuôi vi tảo trong công nghiệp dựa trên những công trình, công nghệ mới được nghiên cứu và phát
-triển trong những năm gần đây. Trong quá trình nghiên cứu, tôi đã
+	Nội dung chính của luận văn nhằm tìm hiểu, nghiên cứu xây dựng hệ thống sử dụng các mô hình học máy và điện toán đám mây vào theo dõi quá trình nuôi vi tảo thời gian thực trong công nghiệp dựa trên những công trình, công nghệ mới được nghiên cứu và phát
+triển trong những năm gần đây. Trong quá trình nghiên cứu, chúng tôi đã
 tiến hành tổng hợp, đánh giá ưu và nhược điểm của cách phương pháp, công nghệ đã và đang
-được nghiên cứu, sử dụng. Tiếp cận vấn đề theo nhiều hướng khác nhau, tôi thực hiện một số
-phương pháp sử dụng máy học để dự đoán nồng độ chất và computer vision để nhận diện bọt khí trong quá trình nuôi vi tảo. Bên
+được nghiên cứu, sử dụng. Tiếp cận vấn đề theo nhiều hướng khác nhau, chúng tôi thực hiện một số
+phương pháp sử dụng máy học để dự đoán nồng độ chất, thị giác máy tính để nhận diện bọt khí và xây dựng nền tảng theo dõi thời gian thực trong quá trình nuôi vi tảo. Bên
 cạnh việc hoàn thành nội dung của đề tài, nhóm chúng tôi đã nghiên cứu thêm một số phần để
 từ đó đặt nền móng cho các nghiên cứu sau này. Phần còn lại của luận văn tập trung vào việc
 đánh giá mô hình,xây dựng hệ thống và kết quả đạt được, đồng thời phân tích ưu nhược điểm của mô hình và hệ thống thực hiện
@@ -109,19 +109,22 @@ phát triển tiếp theo của đề tài trong tương lai.
 \pagestyle{fancy}  % Finally, use the "fancy" page style to implement the FancyHdr headers
 %
 \input{chapter/chapter1-dannhap.tex}
-% \input{chapter/chapter2-tongquan.tex}
-% \input{chapter/chapter3-kienthucnentang.tex}
-% \input{chapter/chapter4-huongtiepcan.tex}
-% \input{chapter/chapter5-ketquadatduoc.tex}
-% \input{chapter/chapter6-thaoluan.tex}
-
-%bibliography{refs}{}
-%bibliographystyle{plain}
+\input{chapter/chapter2-xaydungrealtime.tex}
+\input{chapter/chapter3-Yolo.tex}
+\input{chapter/chapter4-ketqua.tex}
+\input{chapter/chapter5-Tongket.tex}
+% \printbibliography
+% \LaTeX{} 
+% \cite{Krizhevsky2012}
+% \bibliographystyle{plain} % We choose the "plain" reference style
+% \bibliography{refs}% Entries are in the refs.bib file
+% \bibliography{refs}{}
+% \bibliographystyle{plain}
 %-	Danh mục TL tham khảo
 %-	Phụ lục (nếu có)
 
 
-% \begin{thebibliography}{99}
+\begin{thebibliography}{99}
 
 % \bibitem{9direction} 
 % Chi Zhang, Rui Yao, Jinpeng Cai
@@ -132,13 +135,15 @@ phát triển tiếp theo của đề tài trong tương lai.
 % \textit{Appearance-Based Gaze Estimation in the Wild}. 
 
 
-% \bibitem{eyeShapeRegistrationAndGazeEstimation} 
-% University of Cambridge, United Kingdom- Rendering of Eyes for Eye-Shape Registration and Gaze Estimation eww23 iccv2015
-% \\\url{https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Wood_Rendering_of_Eyes_ICCV_2015_paper.pdf}
+\bibitem{plsr} 
+Svante Wold, Michael Sjostrom, Lennart Eriksso, PLS-regression: a basic tool of chemometrics, 2001
 
-% \bibitem{Learninganappearancebasedgazeestimator} 
-% University of Cambridge and Carnegie Mellon University and Max Planck Institute for Informatics, Learning an appearance-based gaze estimator from one million synthesised images
-% \\\url{https://www.d2.mpi-inf.mpg.de/content/learning-appearance-based-gaze-estimator-one-million-synthesised-images}
+
+\bibitem{Yolofly} 
+Dillon Reis, Jordan Kupec, Jacqueline Hong, Ahmad Daoudi Georgia Institute of Technology, Real-Time Flying Object Detection with YOLOv8,2023
+\\\url{ https://www.semanticscholar.org/reader/231a434f8fac0b01cbc05890b283f4d9da4cb100}
+
+
 
 % \bibitem{AReviewandAnalysisofEyeGazeEstimation} 
 % Anuradha Kar and Peter M. Corcoran, A Review and Analysis of Eye-Gaze Estimation Systems Algorithms and Performance Evaluation Methods in Consumer Platforms
@@ -201,5 +206,5 @@ phát triển tiếp theo của đề tài trong tương lai.
 % \bibitem{eyetrackingapplication}
 % \url{https://medium.com/@taolu_99738/developing-of-eye-tracking-application-for-smartphone-b875c50ee0c3}
 
-% \end{thebibliography}
+\end{thebibliography}
 \end{document}

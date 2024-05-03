@@ -400,6 +400,13 @@ INPUT .\chapter\chapter1-dannhap.tex
 INPUT chapter\chapter1-dannhap.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\urwvn\utmr8v.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\urwvn\utmb8v.tfm
+INPUT .\img\realtime_architecture.png
+INPUT .\img\realtime_architecture.png
+INPUT .\img\realtime_architecture.png
+INPUT .\img\realtime_architecture.png
+INPUT .\img\realtime_architecture.png
+INPUT .\img\realtime_architecture.png
+INPUT .\img\realtime_architecture.png
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ts1ptm.fd
@@ -407,6 +414,30 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8c.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\base\8r.enc
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\urwvn\utmb8v.tfm
+INPUT .\img\YOLOV8_arch.png
+INPUT .\img\YOLOV8_arch.png
+INPUT .\img\YOLOV8_arch.png
+INPUT .\img\YOLOV8_arch.png
+INPUT .\img\YOLOV8_arch.png
+INPUT .\img\YOLOV8_arch.png
+INPUT .\img\YOLOV8_arch.png
+INPUT .\chapter\chapter2-xaydungrealtime.tex
+INPUT .\chapter\chapter2-xaydungrealtime.tex
+INPUT chapter\chapter2-xaydungrealtime.tex
+INPUT .\chapter\chapter3-Yolo.tex
+INPUT .\chapter\chapter3-Yolo.tex
+INPUT chapter\chapter3-Yolo.tex
+INPUT .\chapter\chapter4-ketqua.tex
+INPUT .\chapter\chapter4-ketqua.tex
+INPUT chapter\chapter4-ketqua.tex
+INPUT .\chapter\chapter5-Tongket.tex
+INPUT .\chapter\chapter5-Tongket.tex
+INPUT chapter\chapter5-Tongket.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5cmtt.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5cmtt.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\vntex\t5cmtt.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\vntex\vnr\vntt12.tfm
 INPUT thesis.aux
 INPUT .\thesis.out
 INPUT .\thesis.out
@@ -416,3 +447,5 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\urwvn\utmr8v.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\urwvn\utmr8v.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\vnr\vntt12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\vntex\vnr\vntt12.pfb

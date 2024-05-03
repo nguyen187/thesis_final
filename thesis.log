@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.31)  31 MAR 2024 21:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.31)  5 APR 2024 15:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -895,7 +895,7 @@ Package hyperref Info: Link coloring OFF on input line 47.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<img/hcmus-logo.png, id=26, 722.7pt x 593.21625pt>
+<img/hcmus-logo.png, id=134, 722.7pt x 593.21625pt>
 File: img/hcmus-logo.png Graphic file (type png)
 <use img/hcmus-logo.png>
 Package pdftex.def Info: img/hcmus-logo.png  used on input line 61.
@@ -974,37 +974,86 @@ l.97 \listoffigures
 
 ] (chapter/chapter1-dannhap.tex
 Ch\uhorn \ohorn ng 1.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 10.
-(C:\Program Files\MiKTeX\tex/latex/psnfss\ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-))
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.205 \end{document}
-                     [1
+l.14 \newpage
+              [1
 
 
-{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}] (thesis.aux)
+]
+<img/realtime_architecture.png, id=207, 1405.25pt x 556.0775pt>
+File: img/realtime_architecture.png Graphic file (type png)
+<use img/realtime_architecture.png>
+Package pdftex.def Info: img/realtime_architecture.png  used on input line 20.
+(pdftex.def)             Requested size: 421.57826pt x 166.82454pt.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 28.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.50 \textbf{Ưu điểm}
+                          [2{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./img/realtime_architecture.png>]
+<img/YOLOV8_arch.png, id=214, 2146.0175pt x 504.88625pt>
+File: img/YOLOV8_arch.png Graphic file (type png)
+<use img/YOLOV8_arch.png>
+Package pdftex.def Info: img/YOLOV8_arch.png  used on input line 81.
+(pdftex.def)             Requested size: 418.4881pt x 98.45627pt.
+ [3 <./img/YOLOV8_arch.png>]) (chapter/chapter2-xaydungrealtime.tex [4]
+Ch\uhorn \ohorn ng 2.
+) (chapter/chapter3-Yolo.tex [5
+
+]
+Ch\uhorn \ohorn ng 3.
+) (chapter/chapter4-ketqua.tex [6
+
+]
+Ch\uhorn \ohorn ng 4.
+) (chapter/chapter5-Tongket.tex [7
+
+]
+Ch\uhorn \ohorn ng 5.
+) [8
+
+]
+LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 144.
+ (C:\Program Files\MiKTeX\tex/latex/vntex\t5cmtt.fd
+File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 1102) in paragraph at lines 143--145
+[]\T5/ptm/m/n/12 Dillon Reis, Jor-dan Ku-pec, Jacque-line Hong, Ah-mad Daoudi Geor-gia In-sti-tute of
+ []
+
+
+Overfull \hbox (58.32877pt too wide) in paragraph at lines 143--145
+[]$\T5/cmtt/m/n/12 https : / / www . semanticscholar . org / reader / 231a434f8fac0b01cbc05890b283f4d9da4cb100$[] 
+ []
+
+[9
+
+] (thesis.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 3E0C5418C4620D492788223E674615DA;927.
+(rerunfilecheck)             Checksum: E04251A13DBA7A5C2538F9D0F5D64D92;6534.
  ) 
 Here is how much of TeX's memory you used:
- 25372 strings out of 474424
- 454257 string characters out of 5751554
- 1933496 words of memory out of 5000000
- 47254 multiletter control sequences out of 15000+600000
- 612640 words of font info for 105 fonts, out of 8000000 for 9000
+ 25516 strings out of 474424
+ 457062 string characters out of 5751554
+ 1939496 words of memory out of 5000000
+ 47343 multiletter control sequences out of 15000+600000
+ 615215 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,7n,107p,432b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Program Files/MiKTeX/fonts/type1/vntex/urwvn/utmb8v.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/vntex/urwvn/utmr8v.pfb>
-Output written on thesis.pdf (8 pages, 119976 bytes).
+ 99i,12n,107p,738b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/vntex/urwvn/utmb8v.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/vntex/urwvn/utmr8v.pfb><C:/Program Files/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb>
+Output written on thesis.pdf (16 pages, 1787262 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 58 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 285 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 284 words of extra memory for PDF output out of 10000 (max. 10000000)
 
